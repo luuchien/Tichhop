@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="dangkinghi.xslt"  ?>
+<dangkynghi>
+	<ngaylamviec ngay="2023-10-23">
+		<nhanvien manv ="HN001">
+			<lydo>TS</lydo>
+			<donvi>0.5</donvi>
+			<trangthai>Cho phe duyet</trangthai>
+		</nhanvien>
+	</ngaylamviec>
+</dangkynghi>

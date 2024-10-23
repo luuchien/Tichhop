@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dangkynghi"
+    targetNamespace="http://tempuri.org/dangkynghi.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/dangkynghi.xsd"
+    xmlns:mstns="http://tempuri.org/dangkynghi.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:element name="dangkynghi">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="ngaylamviec" maxOccurs="31">
+					<xs:complexType >
+						<xs:sequence>
+							<xs:element name ="nhanvien" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										
+										<xs:element name="lydo">
+											<xs:simpleType>
+												<xs:restriction base="xs:string">
+													<xs:enumeration value="P"/>
+													<xs:enumeration value="O"/>
+													<xs:enumeration value="TS"/>
+												</xs:restriction>
+											</xs:simpleType>
+										</xs:element>
+										<xs:element name="donvi" type="xs:float"/>
+										<xs:element name="trangthai">
+											<xs:simpleType>
+												<xs:restriction base="xs:string">
+													<xs:enumeration value="Cho phe duyet"/>
+													<xs:enumeration value="Da phe duyet"/>
+													<xs:enumeration value="Khong phe duyet"/>
+												</xs:restriction>
+											</xs:simpleType>
+										</xs:element>
+									</xs:sequence>
+									<xs:attribute name="manv">
+										<xs:simpleType>
+											<xs:restriction base="xs:ID">
+												<xs:maxLength value="5"/>
+												<xs:pattern value="HN[0-9]{3}"/>
+
+											</xs:restriction>
+										</xs:simpleType>
+									</xs:attribute>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="ngay" type="xs:date"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
