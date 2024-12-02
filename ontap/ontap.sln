@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ontap", "ontap\ontap.csproj", "{7BD527B1-8A8B-4CC7-BD8F-99ECEEF03B2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BD527B1-8A8B-4CC7-BD8F-99ECEEF03B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD527B1-8A8B-4CC7-BD8F-99ECEEF03B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD527B1-8A8B-4CC7-BD8F-99ECEEF03B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD527B1-8A8B-4CC7-BD8F-99ECEEF03B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6409ACBF-FA20-4A3E-AC30-C791C32B1C53}
+	EndGlobalSection
+EndGlobal

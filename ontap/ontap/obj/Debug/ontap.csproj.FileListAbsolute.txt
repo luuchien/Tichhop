@@ -1,0 +1,10 @@
+D:\Tischop\ontap\ontap\bin\Debug\ontap.exe.config
+D:\Tischop\ontap\ontap\bin\Debug\ontap.exe
+D:\Tischop\ontap\ontap\bin\Debug\ontap.pdb
+D:\Tischop\ontap\ontap\obj\Debug\ontap.csproj.AssemblyReference.cache
+D:\Tischop\ontap\ontap\obj\Debug\ontap.Form1.resources
+D:\Tischop\ontap\ontap\obj\Debug\ontap.Properties.Resources.resources
+D:\Tischop\ontap\ontap\obj\Debug\ontap.csproj.GenerateResource.cache
+D:\Tischop\ontap\ontap\obj\Debug\ontap.csproj.CoreCompileInputs.cache
+D:\Tischop\ontap\ontap\obj\Debug\ontap.exe
+D:\Tischop\ontap\ontap\obj\Debug\ontap.pdb

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bangdiem>
+  <sinhvien masv="1111" monhoc="Lap Trinh Windows">
+    <diemlan1>3</diemlan1>
+    <diemlan2>84</diemlan2>
+  </sinhvien>
+  <sinhvien masv="1111" monhoc="Lap Trinh Java">
+    <diemlan1>5</diemlan1>
+    <diemlan2>4</diemlan2>
+  </sinhvien>
+  <sinhvien masv="2222" monhoc="Lap Trinh Java">
+    <diemlan1>33</diemlan1>
+    <diemlan2>633</diemlan2>
+  </sinhvien>
+</bangdiem>
