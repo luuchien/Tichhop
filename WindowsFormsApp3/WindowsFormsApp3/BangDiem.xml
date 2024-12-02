@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bangdiem>
+  <sinhvien masv="1111" monhoc="Lap trinh Win">
+    <diemlan1>5</diemlan1>
+    <diemlan2>2</diemlan2>
+  </sinhvien>
+  <sinhvien masv="2222" monhoc="Lap trinh Java">
+    <diemlan1>10</diemlan1>
+    <diemlan2>0</diemlan2>
+  </sinhvien>
+  <sinhvien masv="3333" monhoc="Lap trinh C#">
+    <diemlan1>5</diemlan1>
+    <diemlan2>9</diemlan2>
+  </sinhvien>
+  <sinhvien masv="3333" monhoc="Lap trinh Win">
+    <diemlan1>5</diemlan1>
+    <diemlan2>9</diemlan2>
+  </sinhvien>
+</bangdiem>
